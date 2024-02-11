@@ -26,4 +26,11 @@ class Book(unittest.TestCase):
         self.stock += quantity
         #print(f'Stocul cartii {self.title} a fost actualizat: {self.author} exemplare disponibile.')
 
+    def is_in_stock(self):
+        # Verifica daca cartea este in stoc
+        return self.stock > 0
+
+
+
+
 
