@@ -63,6 +63,12 @@ __No significant issues were identified during testing.__
 
 Screenshots:
 
+![image](https://github.com/AdrianMold/GestionareCartiTestareAutomata/assets/85124099/f8abb823-b751-42e2-9d40-375caceeb657)
+
+![image](https://github.com/AdrianMold/GestionareCartiTestareAutomata/assets/85124099/92f04463-e891-4d37-a94b-1f1afcaf84cf)
+
+
+
 ## How to Contribute:
 
 If you want to contribute to the project, follow these steps:
