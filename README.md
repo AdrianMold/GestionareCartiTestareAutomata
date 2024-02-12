@@ -74,13 +74,13 @@ Screenshots:
 If you want to contribute to the project, follow these steps:
 
 Clone the repository: git clone <repository_URL>.
+
 Create a new branch: git checkout -b branch_name.
+
 Add your changes and commit: git add . and git commit -m "Description of changes".
+
 Send a pull request: git push origin branch_name.
 
-## License:
-
-This project is licensed under the MIT License.
 
 ## What's Next:
 
