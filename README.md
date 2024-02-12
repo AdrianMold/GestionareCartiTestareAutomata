@@ -48,7 +48,10 @@ Tests have been created to ensure the correctness of key project functionalities
 Follow these steps to ensure that the project works as intended:
 
 Open the terminal in the project directory.
-Run python -m unittest discover -v tests. This will run all the tests and show you if anything's not working as it should.
+
+Run python -m unittest discover -v tests. 
+
+This will run all the tests and show you if anything's not working as it should.
 
 ## Test Report:
 
